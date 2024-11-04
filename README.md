@@ -125,6 +125,8 @@ MSR Tailors and Fashion Management System is a comprehensive web-based applicati
 ## Conclusion
 MSR Tailors and Fashion Management System provides a robust platform for managing customer orders, employee activities, and administrative tasks. This application ensures an efficient and seamless experience for all stakeholders involved.
 
+## Frontend : https://tailor-management-system-k3q9.vercel.app/
+
 
 
 Looking forward to your feedback and insights!
